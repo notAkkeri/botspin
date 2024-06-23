@@ -25,5 +25,11 @@ rates = {
         "items": [
             'Yeager', 'Ackerman', 'Reiss'
         ]
+    },
+    "mythical": {
+        "rate": 0.00025,
+        "items": [
+            'Fritz'
+        ]
     }
 }
